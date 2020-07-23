@@ -1,0 +1,119 @@
+*{margin: 0;
+padding: 0;}
+
+    body{background-image: url(https://wpamelia.com/wp-content/uploads/2019/02/12112.jpg);
+    background-position: center;
+background-repeat: repeat;
+background-position: center;}
+
+
+.nav{height: 50px;
+width: 100%;
+background-color: #2f4f4f;}
+
+
+.fas{margin-left: 10px;
+margin-top: 5px;}
+
+
+.center{height: 200px;
+display: block;
+width: 40%;
+margin-left:auto;
+margin-right:auto;
+margin-top:100px;}
+
+.right{height:30px;
+display:block;
+margin-left: 950px;
+margin-right:300px;
+margin-top: 0px;
+margin-bottom:600px;}
+
+.login{
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 1000px;
+    float: right;}
+
+.top-div{
+    background-color: rgb(85, 85, 87);
+    color: floralwhite;
+    letter-spacing: 2px;
+    word-spacing: 200px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+    font-size: 20px;}
+
+.links {
+    color: ghostwhite;
+    background-color: black;
+    padding:3px;
+    text-decoration: none;
+border-radius: 20px;}
+
+.links:hover{color:ghostwhite;}
+
+.img1{text-align: center;
+justify-self: center;}
+
+
+.cardimg{text-align: center;
+margin-top: 5px;
+margin-left: 450px;
+margin-right: 450px;
+border-radius: 100px;
+background-color: rgb(55, 59, 66);
+padding: 5px;
+padding-top: 25px;}
+
+.headings{word-spacing: 2px;
+letter-spacing: 2px;
+initial-letter-align: 25px;
+color: rgb(255, 255, 255);}
+
+.p1{color: rgb(255, 255, 255);
+    font-family: 'Pacifico', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-size: 30px;
+}
+
+.smallimg{height: 20px;}
+
+
+/* second part */
+
+.div2{align-items: center;
+margin-top: 10px;
+}
+
+
+
+.butt1  {padding:3px;
+background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+margin-left: 450px;
+padding-left: 10px;
+padding-right: 10px;}
+
+.butt2  {padding:3px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-left: 340px;
+margin-right: 300px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+button:hover{color: rgb(29, 20, 20);
+    background-color: rgb(255, 255, 255);
+transition-delay: 0.1s;
+}
+    
+.lastdiv{padding:10px;
+display: block;
+justify-content: center;
+text-align: center;
+margin-top: 20px;}
